@@ -1,0 +1,1518 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Bolivia,BOL,2021,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.89
+Bolivia,BOL,2020,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.55
+Bolivia,BOL,2019,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.87
+Bolivia,BOL,2018,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.94
+Bolivia,BOL,2017,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.03
+Bolivia,BOL,2016,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.03
+Bolivia,BOL,2015,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.98
+Bolivia,BOL,2014,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.16
+Bolivia,BOL,2013,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.99
+Bolivia,BOL,2012,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.22
+Bolivia,BOL,2011,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.09
+Bolivia,BOL,2010,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.01
+Bolivia,BOL,2009,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.85
+Bolivia,BOL,2008,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.82
+Bolivia,BOL,2007,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.98
+Bolivia,BOL,2006,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.07
+Bolivia,BOL,2005,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.19
+Bolivia,BOL,2004,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.97
+Bolivia,BOL,2003,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.07
+Bolivia,BOL,2002,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.08
+Bolivia,BOL,2001,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.51
+Bolivia,BOL,2000,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.36
+Bolivia,BOL,2023,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.6
+Bolivia,BOL,2022,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,95.6
+Bolivia,BOL,2021,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,95.1
+Bolivia,BOL,2020,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,90.9
+Bolivia,BOL,2019,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,84.9
+Bolivia,BOL,2018,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,77.6
+Bolivia,BOL,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,74.8
+Bolivia,BOL,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,74.9
+Bolivia,BOL,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,74.3
+Bolivia,BOL,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,70.3
+Bolivia,BOL,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,68.5
+Bolivia,BOL,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,72.2
+Bolivia,BOL,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,66.6
+Bolivia,BOL,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,66.4
+Bolivia,BOL,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,63.3
+Bolivia,BOL,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,57
+Bolivia,BOL,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,46.5
+Bolivia,BOL,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,41.6
+Bolivia,BOL,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,29.5
+Bolivia,BOL,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,40.3
+Bolivia,BOL,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,35
+Bolivia,BOL,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,22.5
+Bolivia,BOL,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,28
+Bolivia,BOL,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,28.2
+Bolivia,BOL,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,28.3738518904785
+Bolivia,BOL,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,32.6782770853407
+Bolivia,BOL,1997,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,24.2240372567879
+Bolivia,BOL,1996,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,32.9567614289426
+Bolivia,BOL,1995,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,20.2616960389374
+Bolivia,BOL,1994,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,23.167928845758
+Bolivia,BOL,1993,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,13.3725169498417
+Bolivia,BOL,1992,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,13.2145822115123
+Bolivia,BOL,2023,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9
+Bolivia,BOL,2022,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Bolivia,BOL,2021,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Bolivia,BOL,2020,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9
+Bolivia,BOL,2019,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Bolivia,BOL,2018,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Bolivia,BOL,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.4
+Bolivia,BOL,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Bolivia,BOL,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Bolivia,BOL,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.3
+Bolivia,BOL,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Bolivia,BOL,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2
+Bolivia,BOL,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.1
+Bolivia,BOL,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.8
+Bolivia,BOL,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.9
+Bolivia,BOL,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2
+Bolivia,BOL,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.2
+Bolivia,BOL,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.2
+Bolivia,BOL,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,89.9
+Bolivia,BOL,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.1
+Bolivia,BOL,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94
+Bolivia,BOL,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,88.6
+Bolivia,BOL,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.2
+Bolivia,BOL,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.8
+Bolivia,BOL,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.837216
+Bolivia,BOL,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.1
+Bolivia,BOL,1997,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.815075
+Bolivia,BOL,1996,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.7
+Bolivia,BOL,1995,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.3611602783203
+Bolivia,BOL,1994,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93
+Bolivia,BOL,1993,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.038393
+Bolivia,BOL,1992,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.571038
+Bolivia,BOL,2023,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8
+Bolivia,BOL,2022,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9
+Bolivia,BOL,2021,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.6
+Bolivia,BOL,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.2
+Bolivia,BOL,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,95.1
+Bolivia,BOL,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,92.8
+Bolivia,BOL,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.8
+Bolivia,BOL,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.8
+Bolivia,BOL,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.5
+Bolivia,BOL,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,90
+Bolivia,BOL,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,89.5
+Bolivia,BOL,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,90.4
+Bolivia,BOL,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,88.3
+Bolivia,BOL,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,88
+Bolivia,BOL,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,86.8
+Bolivia,BOL,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,84.7
+Bolivia,BOL,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,80.2
+Bolivia,BOL,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,76.2
+Bolivia,BOL,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,68.3
+Bolivia,BOL,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,75.9
+Bolivia,BOL,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.3
+Bolivia,BOL,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,64
+Bolivia,BOL,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,69.3
+Bolivia,BOL,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,70
+Bolivia,BOL,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.929888
+Bolivia,BOL,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,71.2
+Bolivia,BOL,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,67.330431
+Bolivia,BOL,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,71
+Bolivia,BOL,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,64.0915298461914
+Bolivia,BOL,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,64.1
+Bolivia,BOL,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,61.3840293884277
+Bolivia,BOL,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,60.0279006958008
+Bolivia,BOL,2021,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2020,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2019,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2018,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2017,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2016,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,1994,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,1993,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,1992,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,1991,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,1990,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Bolivia,BOL,2022,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,63.4028751753156
+Bolivia,BOL,2021,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,61.7428072433128
+Bolivia,BOL,2020,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,64.0809781519343
+Bolivia,BOL,2019,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,63.4236693312536
+Bolivia,BOL,2018,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,70.2943532238686
+Bolivia,BOL,2017,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,74.6984193011647
+Bolivia,BOL,2016,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,79.1877081766412
+Bolivia,BOL,2015,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,70.3055801594331
+Bolivia,BOL,2014,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,71.2581344902386
+Bolivia,BOL,2013,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,66.0158244002042
+Bolivia,BOL,2012,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,67.2763954270343
+Bolivia,BOL,2011,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,65.8094435075885
+Bolivia,BOL,2010,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,66.1169415292354
+Bolivia,BOL,2009,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,61.8558356076417
+Bolivia,BOL,2008,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,60.0370183409053
+Bolivia,BOL,2007,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,56.5584296459365
+Bolivia,BOL,2006,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,56.1578318055002
+Bolivia,BOL,2005,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,58.8845918990434
+Bolivia,BOL,2004,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,51.431718061674
+Bolivia,BOL,2003,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,53.069671188779
+Bolivia,BOL,2002,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,46.0692951015532
+Bolivia,BOL,2001,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,45.1645315247425
+Bolivia,BOL,2000,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,48.479381443299
+Bolivia,BOL,1999,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,52.6410718886885
+Bolivia,BOL,1998,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,56.711590296496
+Bolivia,BOL,1997,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,53.5426267281106
+Bolivia,BOL,1996,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,54.5398394070414
+Bolivia,BOL,1995,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,56.6743954951971
+Bolivia,BOL,1994,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,51.8413597733711
+Bolivia,BOL,1993,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,41.7201056205206
+Bolivia,BOL,1992,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,45.8540630182421
+Bolivia,BOL,1991,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,41.1247803163445
+Bolivia,BOL,1990,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,49.7304023226877
+Bolivia,BOL,2022,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,24.9912342215989
+Bolivia,BOL,2021,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,29.7453810092839
+Bolivia,BOL,2020,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,29.4848667067549
+Bolivia,BOL,2019,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,31.6923376876584
+Bolivia,BOL,2018,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,26.1513816579896
+Bolivia,BOL,2017,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,23.2217138103161
+Bolivia,BOL,2016,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,18.4807134414956
+Bolivia,BOL,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,27.2697077059345
+Bolivia,BOL,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,27.1270185586888
+Bolivia,BOL,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,32.3506891271057
+Bolivia,BOL,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,31.6341627437794
+Bolivia,BOL,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,32.982012366498
+Bolivia,BOL,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,32.7136431784108
+Bolivia,BOL,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,36.8598490929523
+Bolivia,BOL,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,38.86925795053
+Bolivia,BOL,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,42.5426527242708
+Bolivia,BOL,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,43.0251096054205
+Bolivia,BOL,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,39.9755750050885
+Bolivia,BOL,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,47.3348017621145
+Bolivia,BOL,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.6886640607036
+Bolivia,BOL,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,52.6403823178017
+Bolivia,BOL,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,53.4790253705099
+Bolivia,BOL,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,50.1288659793814
+Bolivia,BOL,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,46.0190672507086
+Bolivia,BOL,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,41.9407008086253
+Bolivia,BOL,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.0748847926267
+Bolivia,BOL,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,44.0086473131563
+Bolivia,BOL,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,41.8350447167936
+Bolivia,BOL,1994,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,46.600566572238
+Bolivia,BOL,1993,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,56.6578649566201
+Bolivia,BOL,1992,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,52.4461028192371
+Bolivia,BOL,1991,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,57.2495606326889
+Bolivia,BOL,1990,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,48.9423475736209
+Bolivia,BOL,2022,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.02875175315568
+Bolivia,BOL,2021,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.53019579005423
+Bolivia,BOL,2020,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.83944678292243
+Bolivia,BOL,2019,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.71514915188146
+Bolivia,BOL,2018,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.84060873047657
+Bolivia,BOL,2017,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.88103161397671
+Bolivia,BOL,2016,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.59568067046309
+Bolivia,BOL,2015,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.01240035429584
+Bolivia,BOL,2014,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.09857797059532
+Bolivia,BOL,2013,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.11179173047473
+Bolivia,BOL,2012,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.168123739072
+Bolivia,BOL,2011,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.186059584036
+Bolivia,BOL,2010,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.7391304347826
+Bolivia,BOL,2009,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.5267298121689
+Bolivia,BOL,2008,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.5429917550059
+Bolivia,BOL,2007,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.5758576407999
+Bolivia,BOL,2006,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.6580310880829
+Bolivia,BOL,2005,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.9912477101567
+Bolivia,BOL,2004,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.0132158590308
+Bolivia,BOL,2003,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.9910324212463
+Bolivia,BOL,2002,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.063321385902
+Bolivia,BOL,2001,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.0776186887717
+Bolivia,BOL,2000,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.0824742268041
+Bolivia,BOL,1999,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.4145838701366
+Bolivia,BOL,1998,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.9676549865229
+Bolivia,BOL,1997,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.6071428571429
+Bolivia,BOL,1996,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.4576899320568
+Bolivia,BOL,1995,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.560119244783
+Bolivia,BOL,1994,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.570821529745
+Bolivia,BOL,1993,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.2587702753678
+Bolivia,BOL,1992,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.3864013266998
+Bolivia,BOL,1991,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.9718804920914
+Bolivia,BOL,1990,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,24.5956034840315
+Bolivia,BOL,2022,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,61.4042776998597
+Bolivia,BOL,2021,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,59.5275301038698
+Bolivia,BOL,2020,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,61.2848266185608
+Bolivia,BOL,2019,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,60.5673620588809
+Bolivia,BOL,2018,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,67.4709651581898
+Bolivia,BOL,2017,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,72.5249584026622
+Bolivia,BOL,2016,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,77.0925110132159
+Bolivia,BOL,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,68.1465899025686
+Bolivia,BOL,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,69.0648348999759
+Bolivia,BOL,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,64.0760592138846
+Bolivia,BOL,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,65.0975117686617
+Bolivia,BOL,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,64.1090500281057
+Bolivia,BOL,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,64.0929535232384
+Bolivia,BOL,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,60.1220099534436
+Bolivia,BOL,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,58.3375399629817
+Bolivia,BOL,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,54.5771418088424
+Bolivia,BOL,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,54.3443603029095
+Bolivia,BOL,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,57.5819255037655
+Bolivia,BOL,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,50.1762114537445
+Bolivia,BOL,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,51.7590250632329
+Bolivia,BOL,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,44.8506571087216
+Bolivia,BOL,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,43.9839236372771
+Bolivia,BOL,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,47.6030927835052
+Bolivia,BOL,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,50.7343468178305
+Bolivia,BOL,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,54.7978436657682
+Bolivia,BOL,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,52.3905529953917
+Bolivia,BOL,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,52.9647930821495
+Bolivia,BOL,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,54.4551175886055
+Bolivia,BOL,1994,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,49.8229461756374
+Bolivia,BOL,1993,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,39.6831384383252
+Bolivia,BOL,1992,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,40.4228855721393
+Bolivia,BOL,1991,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,38.1810193321617
+Bolivia,BOL,1990,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,41.4765657403567
+Bolivia,BOL,2021,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2020,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2019,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2018,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2017,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2016,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2015,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,1994,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,1993,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,1992,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,1991,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,1990,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Bolivia,BOL,2022,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.99859747545582
+Bolivia,BOL,2021,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.21527713944296
+Bolivia,BOL,2020,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.79615153337342
+Bolivia,BOL,2019,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.85630727237278
+Bolivia,BOL,2018,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.82338806567881
+Bolivia,BOL,2017,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.1734608985025
+Bolivia,BOL,2016,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.09519716342538
+Bolivia,BOL,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.15899025686448
+Bolivia,BOL,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.19329959026271
+Bolivia,BOL,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.93976518631955
+Bolivia,BOL,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.17888365837256
+Bolivia,BOL,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.70039347948286
+Bolivia,BOL,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.023988005997
+Bolivia,BOL,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.73382565419811
+Bolivia,BOL,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.69947837792361
+Bolivia,BOL,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.98128783709411
+Bolivia,BOL,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.81347150259067
+Bolivia,BOL,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.30266639527783
+Bolivia,BOL,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.25550660792952
+Bolivia,BOL,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.3106461255461
+Bolivia,BOL,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.21863799283154
+Bolivia,BOL,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.18060788746546
+Bolivia,BOL,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.876288659793814
+Bolivia,BOL,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.90672507085803
+Bolivia,BOL,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.91374663072776
+Bolivia,BOL,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.15207373271889
+Bolivia,BOL,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.57504632489191
+Bolivia,BOL,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.21927790659159
+Bolivia,BOL,1994,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.01841359773371
+Bolivia,BOL,1993,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.0369671821954
+Bolivia,BOL,1992,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.43117744610282
+Bolivia,BOL,1991,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.94376098418278
+Bolivia,BOL,1990,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,8.25383658233098
+Bolivia,BOL,2021,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,38.2551705119956
+Bolivia,BOL,2020,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,35.9092002405292
+Bolivia,BOL,2019,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,36.3314486254631
+Bolivia,BOL,2018,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,29.7072486984381
+Bolivia,BOL,2017,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,25.1946755407654
+Bolivia,BOL,2016,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,20.8079939830235
+Bolivia,BOL,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,29.4512843224092
+Bolivia,BOL,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,29.0683297180043
+Bolivia,BOL,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,34.1408882082695
+Bolivia,BOL,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,33.3300605245461
+Bolivia,BOL,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,34.7390387858347
+Bolivia,BOL,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,34.3751124437781
+Bolivia,BOL,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,38.7860009632365
+Bolivia,BOL,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,40.5450109372371
+Bolivia,BOL,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,43.9196477710512
+Bolivia,BOL,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,43.9772817855719
+Bolivia,BOL,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,41.0262568695298
+Bolivia,BOL,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,48.4594713656388
+Bolivia,BOL,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,46.0595539204415
+Bolivia,BOL,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,53.0238948626045
+Bolivia,BOL,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,54.2627480532529
+Bolivia,BOL,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,49.7688144329897
+Bolivia,BOL,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,47.3589281113115
+Bolivia,BOL,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,43.288409703504
+Bolivia,BOL,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,46.4573732718894
+Bolivia,BOL,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,45.4601605929586
+Bolivia,BOL,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,43.3256045048029
+Bolivia,BOL,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,48.1586402266289
+Bolivia,BOL,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,58.2798943794794
+Bolivia,BOL,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,54.1459369817579
+Bolivia,BOL,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,58.8752196836555
+Bolivia,BOL,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,50.2695976773123
+Bolivia,BOL,2021,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,925780000
+Bolivia,BOL,2020,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,641020000
+Bolivia,BOL,2019,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,475880000
+Bolivia,BOL,2018,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,355160000
+Bolivia,BOL,2017,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,189720000
+Bolivia,BOL,2016,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,216600000
+Bolivia,BOL,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,197040000
+Bolivia,BOL,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,161090000
+Bolivia,BOL,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,140280000
+Bolivia,BOL,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,126090000
+Bolivia,BOL,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,125030000
+Bolivia,BOL,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,110820000
+Bolivia,BOL,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,119980000
+Bolivia,BOL,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,99590000
+Bolivia,BOL,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,75060000
+Bolivia,BOL,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,47780000
+Bolivia,BOL,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,51620000
+Bolivia,BOL,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,51060000
+Bolivia,BOL,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,16130000
+Bolivia,BOL,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,16050000
+Bolivia,BOL,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,31200000
+Bolivia,BOL,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,-13970000
+Bolivia,BOL,1999,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,52000000
+Bolivia,BOL,1998,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,50000000
+Bolivia,BOL,1997,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,48000000
+Bolivia,BOL,1996,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,47000000
+Bolivia,BOL,1995,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,45000000
+Bolivia,BOL,1994,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,44000000
+Bolivia,BOL,1993,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,43000000
+Bolivia,BOL,1992,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,41000000
+Bolivia,BOL,1991,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,37000000
+Bolivia,BOL,1990,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,32000000
+Bolivia,BOL,2021,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,8.50978950271165
+Bolivia,BOL,2020,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.4243335337743
+Bolivia,BOL,2019,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.63911093780464
+Bolivia,BOL,2018,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.55586704044854
+Bolivia,BOL,2017,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.97296173044925
+Bolivia,BOL,2016,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.32728054152788
+Bolivia,BOL,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.18157661647476
+Bolivia,BOL,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.9413111593155
+Bolivia,BOL,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.79019908116386
+Bolivia,BOL,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.69589778076664
+Bolivia,BOL,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.75702641933671
+Bolivia,BOL,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.66146926536732
+Bolivia,BOL,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.92615187028415
+Bolivia,BOL,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.67575298670705
+Bolivia,BOL,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.37699504678041
+Bolivia,BOL,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.952172180151455
+Bolivia,BOL,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.05068186444128
+Bolivia,BOL,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.12466960352423
+Bolivia,BOL,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.370889859737871
+Bolivia,BOL,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.383512544802867
+Bolivia,BOL,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.783722682743029
+Bolivia,BOL,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,-0.360051546391753
+Bolivia,BOL,1999,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.33986086060294
+Bolivia,BOL,1998,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.34770889487871
+Bolivia,BOL,1997,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.38248847926267
+Bolivia,BOL,1996,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.45151327980235
+Bolivia,BOL,1995,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.49055978800927
+Bolivia,BOL,1994,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.55807365439093
+Bolivia,BOL,1993,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.6220294228593
+Bolivia,BOL,1992,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.69983416252073
+Bolivia,BOL,1991,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.62565905096661
+Bolivia,BOL,1990,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.32725010369141
+Bolivia,BOL,2021,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.8
+Bolivia,BOL,2020,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,16.9
+Bolivia,BOL,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.5
+Bolivia,BOL,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.3
+Bolivia,BOL,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.3
+Bolivia,BOL,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.6
+Bolivia,BOL,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.2
+Bolivia,BOL,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,15
+Bolivia,BOL,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,16
+Bolivia,BOL,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.4
+Bolivia,BOL,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.1
+Bolivia,BOL,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.9
+Bolivia,BOL,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,20.6
+Bolivia,BOL,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,21.3
+Bolivia,BOL,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,22.1
+Bolivia,BOL,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,23.7
+Bolivia,BOL,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.6
+Bolivia,BOL,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,25.8
+Bolivia,BOL,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27
+Bolivia,BOL,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,28.1
+Bolivia,BOL,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29
+Bolivia,BOL,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.2
+Bolivia,BOL,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.8
+Bolivia,BOL,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.6
+Bolivia,BOL,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32
+Bolivia,BOL,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.4
+Bolivia,BOL,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.2
+Bolivia,BOL,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.2
+Bolivia,BOL,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,36.9
+Bolivia,BOL,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,36.9
+Bolivia,BOL,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,38.1
+Bolivia,BOL,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,37
+Bolivia,BOL,2022,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,12.9926731774891
+Bolivia,BOL,2021,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,12.4748088631785
+Bolivia,BOL,2020,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,12.6097276232122
+Bolivia,BOL,2019,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.5323100965716
+Bolivia,BOL,2018,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.1471509807297
+Bolivia,BOL,2017,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.6260362312017
+Bolivia,BOL,2016,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.68965426773113
+Bolivia,BOL,2015,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.55057710457924
+Bolivia,BOL,2014,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.30265752158707
+Bolivia,BOL,2013,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.42238164221141
+Bolivia,BOL,2012,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.33658602688063
+Bolivia,BOL,2011,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.1594692255353
+Bolivia,BOL,2010,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.15434114753205
+Bolivia,BOL,2009,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.3915097769199
+Bolivia,BOL,2008,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.40573815023654
+Bolivia,BOL,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.92807571816505
+Bolivia,BOL,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.53535894245355
+Bolivia,BOL,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.10616918440711
+Bolivia,BOL,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.27881294808684
+Bolivia,BOL,2003,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.90649490804659
+Bolivia,BOL,2002,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.75916561864019
+Bolivia,BOL,2001,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.72463846707012
+Bolivia,BOL,2000,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.91311127199896
+Bolivia,BOL,1999,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.07555029747661
+Bolivia,BOL,1998,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.8381590066228
+Bolivia,BOL,1997,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.57304808408323
+Bolivia,BOL,1996,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.71418209420928
+Bolivia,BOL,1995,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.01198421109688
+Bolivia,BOL,1994,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.32421541586992
+Bolivia,BOL,1993,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.54521976970584
+Bolivia,BOL,1992,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.57339930639538
+Bolivia,BOL,1991,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.69659413586543
+Bolivia,BOL,1990,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.33280759932959
+Bolivia,BOL,2022,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.1280090913262
+Bolivia,BOL,2021,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.4748088631785
+Bolivia,BOL,2020,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.6845878435366
+Bolivia,BOL,2019,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.5514694730133
+Bolivia,BOL,2018,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.3355977089201
+Bolivia,BOL,2017,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.0401501154662
+Bolivia,BOL,2016,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.0554682999509
+Bolivia,BOL,2015,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.2077946132014
+Bolivia,BOL,2014,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.6847008560338
+Bolivia,BOL,2013,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.1882683287668
+Bolivia,BOL,2012,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.5212089283591
+Bolivia,BOL,2011,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.8677982677231
+Bolivia,BOL,2010,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.1050313617819
+Bolivia,BOL,2009,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.608495176402
+Bolivia,BOL,2008,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.7077723594201
+Bolivia,BOL,2007,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.2165721348259
+Bolivia,BOL,2006,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.9260084506035
+Bolivia,BOL,2005,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.5935725923718
+Bolivia,BOL,2004,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.2475801059381
+Bolivia,BOL,2003,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.9336067067073
+Bolivia,BOL,2002,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.9096200987063
+Bolivia,BOL,2001,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.8222897906816
+Bolivia,BOL,2000,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,14.4783675831375
+Bolivia,BOL,1999,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.3680453631303
+Bolivia,BOL,1998,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.0784425950705
+Bolivia,BOL,1997,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.6942232361144
+Bolivia,BOL,1996,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.1541343963937
+Bolivia,BOL,1995,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.950295183769
+Bolivia,BOL,1994,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.8345046596237
+Bolivia,BOL,1993,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.5666345986963
+Bolivia,BOL,1992,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.9480016619887
+Bolivia,BOL,1991,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,14.5332186928447
+Bolivia,BOL,1990,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,14.2085009715847
+Bolivia,BOL,2022,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-67.3339047798362
+Bolivia,BOL,2021,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-95.1670516797576
+Bolivia,BOL,2020,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-119.861218243224
+Bolivia,BOL,2019,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-90.7541646516507
+Bolivia,BOL,2018,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-114.956340623248
+Bolivia,BOL,2017,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-132.556085404388
+Bolivia,BOL,2016,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-149.600133837234
+Bolivia,BOL,2015,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-174.583824385328
+Bolivia,BOL,2014,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-179.200451039541
+Bolivia,BOL,2013,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-191.992250565064
+Bolivia,BOL,2012,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-160.638050669679
+Bolivia,BOL,2011,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-148.439247371952
+Bolivia,BOL,2010,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-148.351640109653
+Bolivia,BOL,2009,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-136.60464075814
+Bolivia,BOL,2008,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-183.610356705548
+Bolivia,BOL,2007,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-180.911409918285
+Bolivia,BOL,2006,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-171.323973996284
+Bolivia,BOL,2005,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-163.59352729856
+Bolivia,BOL,2004,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-145.621466124392
+Bolivia,BOL,2003,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-94.1611498477105
+Bolivia,BOL,2002,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-73.4901770555421
+Bolivia,BOL,2001,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-82.3824401382299
+Bolivia,BOL,2000,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-49.6505599539746
+Bolivia,BOL,1999,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-18.2911235878197
+Bolivia,BOL,1998,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-26.1888331565233
+Bolivia,BOL,1997,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-27.6787485772166
+Bolivia,BOL,1996,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-42.7020878938735
+Bolivia,BOL,1995,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-55.1674335378323
+Bolivia,BOL,1994,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-69.0059487886886
+Bolivia,BOL,1993,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-72.9509955884109
+Bolivia,BOL,1992,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-80.3894167270249
+Bolivia,BOL,1991,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-90.8181038761789
+Bolivia,BOL,1990,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-91.59073810917
+Bolivia,BOL,2022,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.25
+Bolivia,BOL,2021,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.52
+Bolivia,BOL,2020,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.69
+Bolivia,BOL,2019,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.25
+Bolivia,BOL,2018,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.6
+Bolivia,BOL,2017,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.18
+Bolivia,BOL,2016,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.74
+Bolivia,BOL,2015,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.58
+Bolivia,BOL,2014,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.36
+Bolivia,BOL,2013,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.92
+Bolivia,BOL,2012,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.73
+Bolivia,BOL,2011,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.95
+Bolivia,BOL,2010,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.95
+Bolivia,BOL,2009,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.36
+Bolivia,BOL,2008,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.52
+Bolivia,BOL,2007,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.61
+Bolivia,BOL,2006,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.43
+Bolivia,BOL,2005,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.18
+Bolivia,BOL,2004,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.84
+Bolivia,BOL,2003,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.6
+Bolivia,BOL,2002,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,4.09
+Bolivia,BOL,2001,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,4.7
+Bolivia,BOL,2000,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,4.58
+Bolivia,BOL,1999,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.38
+Bolivia,BOL,1998,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.88
+Bolivia,BOL,1997,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.94
+Bolivia,BOL,1996,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.93
+Bolivia,BOL,1995,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.91
+Bolivia,BOL,1994,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.4
+Bolivia,BOL,1993,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,4.3
+Bolivia,BOL,1992,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.88
+Bolivia,BOL,1991,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,4.23
+Bolivia,BOL,1990,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.94
+Bolivia,BOL,2022,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,84.84
+Bolivia,BOL,2021,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,84.13
+Bolivia,BOL,2020,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,82.26
+Bolivia,BOL,2019,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,85.34
+Bolivia,BOL,2018,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,86.3
+Bolivia,BOL,2017,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,86.7
+Bolivia,BOL,2016,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,86.8
+Bolivia,BOL,2015,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,85.5
+Bolivia,BOL,2014,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,85.81
+Bolivia,BOL,2013,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,84.21
+Bolivia,BOL,2012,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,84.39
+Bolivia,BOL,2011,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,83.22
+Bolivia,BOL,2010,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,81.95
+Bolivia,BOL,2009,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,80.89
+Bolivia,BOL,2008,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,80.68
+Bolivia,BOL,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,80.9
+Bolivia,BOL,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,81.26
+Bolivia,BOL,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,81.73
+Bolivia,BOL,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,79.83
+Bolivia,BOL,2003,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,80.17
+Bolivia,BOL,2002,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,79.44
+Bolivia,BOL,2001,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,75.64
+Bolivia,BOL,2000,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,74.6
+Bolivia,BOL,1999,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,78.87
+Bolivia,BOL,1998,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,79.58
+Bolivia,BOL,1997,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,79.11
+Bolivia,BOL,1996,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,77.23
+Bolivia,BOL,1995,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,74.03
+Bolivia,BOL,1994,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,71.23
+Bolivia,BOL,1993,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,68.13
+Bolivia,BOL,1992,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,68.68
+Bolivia,BOL,1991,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,65.95
+Bolivia,BOL,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,66.7
+Bolivia,BOL,2022,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,82.4537640489724
+Bolivia,BOL,2021,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,80.1615488435793
+Bolivia,BOL,2020,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,73.0749081692155
+Bolivia,BOL,2019,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,79.6719461534031
+Bolivia,BOL,2018,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,81.0661974876892
+Bolivia,BOL,2017,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,83.0554428649067
+Bolivia,BOL,2016,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,82.9499091299564
+Bolivia,BOL,2015,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,81.9148774766092
+Bolivia,BOL,2014,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,85.5819941238477
+Bolivia,BOL,2013,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,82.0461096708705
+Bolivia,BOL,2012,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,86.7964469890425
+Bolivia,BOL,2011,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,84.261627762894
+Bolivia,BOL,2010,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,82.6102775047081
+Bolivia,BOL,2009,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,79.3116058664634
+Bolivia,BOL,2008,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,78.6919982288407
+Bolivia,BOL,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,81.856022210133
+Bolivia,BOL,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,83.8503514517802
+Bolivia,BOL,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,86.2546891419791
+Bolivia,BOL,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,81.6487821553552
+Bolivia,BOL,2003,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,83.7969630286166
+Bolivia,BOL,2002,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,83.9657345668506
+Bolivia,BOL,2001,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,72.3469132208587
+Bolivia,BOL,2000,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,69.0685599918509
+Bolivia,BOL,1999,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,87.9658699501036
+Bolivia,BOL,1998,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,90.2653952862439
+Bolivia,BOL,1997,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,93.5084276736434
+Bolivia,BOL,1996,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,89.6528555656738
+Bolivia,BOL,1995,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,83.6799413422197
+Bolivia,BOL,1994,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.9149664533543
+Bolivia,BOL,1993,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,73.7102479413795
+Bolivia,BOL,1992,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,71.6948581046716
+Bolivia,BOL,1991,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,68.8078822134797
+Bolivia,BOL,1990,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,70.3804012822944
+Bolivia,BOL,2022,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,11.9074752139208
+Bolivia,BOL,2021,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,12.3424196422678
+Bolivia,BOL,2020,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,14.0502699729259
+Bolivia,BOL,2019,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,11.4081615853972
+Bolivia,BOL,2018,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,11.1007744726376
+Bolivia,BOL,2017,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,11.1274388673035
+Bolivia,BOL,2016,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,11.4628299992869
+Bolivia,BOL,2015,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,11.9114977109979
+Bolivia,BOL,2014,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,11.8270007614198
+Bolivia,BOL,2013,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,12.8719265210344
+Bolivia,BOL,2012,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,12.8797805389705
+Bolivia,BOL,2011,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,13.8245079400582
+Bolivia,BOL,2010,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,15.1031842165462
+Bolivia,BOL,2009,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,15.7456327659488
+Bolivia,BOL,2008,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,15.7939335906551
+Bolivia,BOL,2007,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,15.4883479614337
+Bolivia,BOL,2006,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,15.3074149428686
+Bolivia,BOL,2005,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,15.0914298303591
+Bolivia,BOL,2004,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,16.3351850014879
+Bolivia,BOL,2003,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,16.2277544239434
+Bolivia,BOL,2002,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,16.4696229248481
+Bolivia,BOL,2001,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,19.6584764020943
+Bolivia,BOL,2000,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,20.8238809092633
+Bolivia,BOL,1999,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,17.7128334113858
+Bolivia,BOL,1998,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,17.5088319205694
+Bolivia,BOL,1997,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,17.9281141985944
+Bolivia,BOL,1996,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,19.8164162299027
+Bolivia,BOL,1995,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,23.0380879345603
+Bolivia,BOL,1994,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,25.3211483748599
+Bolivia,BOL,1993,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,27.5354715631335
+Bolivia,BOL,1992,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,27.4006220442248
+Bolivia,BOL,1991,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,29.7883669509499
+Bolivia,BOL,1990,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,29.3237482236898
+Bolivia,BOL,2022,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,859.308409911805
+Bolivia,BOL,2021,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,833.601399304369
+Bolivia,BOL,2020,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,769.784176923756
+Bolivia,BOL,2019,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,802.304027987764
+Bolivia,BOL,2018,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,791.163438638737
+Bolivia,BOL,2017,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,772.350725504595
+Bolivia,BOL,2016,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,760.910982270157
+Bolivia,BOL,2015,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,746.093517711096
+Bolivia,BOL,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,695.278631321477
+Bolivia,BOL,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,666.691130106056
+Bolivia,BOL,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,635.139081575004
+Bolivia,BOL,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,610.691212588278
+Bolivia,BOL,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,578.157585507071
+Bolivia,BOL,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,550.20454210772
+Bolivia,BOL,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,533.659098527255
+Bolivia,BOL,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,497.627493815791
+Bolivia,BOL,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,465.568661190257
+Bolivia,BOL,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,467.163222107963
+Bolivia,BOL,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,438.925904852815
+Bolivia,BOL,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,427.701724728474
+Bolivia,BOL,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,418.185566755483
+Bolivia,BOL,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,404.444964408843
+Bolivia,BOL,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,400.867919713941
+Bolivia,BOL,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,408.165388189753
+Bolivia,BOL,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,394.544033399596
+Bolivia,BOL,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,377.330770455074
+Bolivia,BOL,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,358.650546465254
+Bolivia,BOL,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,340.331462526204
+Bolivia,BOL,1994,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,321.586184709269
+Bolivia,BOL,1993,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,301.615145144042
+Bolivia,BOL,1992,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,279.52975477825
+Bolivia,BOL,1991,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,270.181582077305
+Bolivia,BOL,1990,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,256.236131061625
+Bolivia,BOL,1989,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,248.21800100433
+Bolivia,BOL,1988,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,236.558862925769
+Bolivia,BOL,1987,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,224.889953351398
+Bolivia,BOL,1986,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,226.326555186213
+Bolivia,BOL,1985,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,235.965764702857
+Bolivia,BOL,1984,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,243.398938022894
+Bolivia,BOL,1983,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,245.24073598241
+Bolivia,BOL,1982,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,256.061393585471
+Bolivia,BOL,1981,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,257.468059779464
+Bolivia,BOL,1980,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,245.533001093959
+Bolivia,BOL,1979,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,230.160673816684
+Bolivia,BOL,1978,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,220.925295455788
+Bolivia,BOL,1977,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,210.255641859723
+Bolivia,BOL,1976,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,194.235855977062
+Bolivia,BOL,1975,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,184.524146678011
+Bolivia,BOL,1974,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,177.004365377628
+Bolivia,BOL,1973,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,169.443199869659
+Bolivia,BOL,1972,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,169.757078661889
+Bolivia,BOL,1971,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,161.897024119674
+Bolivia,BOL,2022,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,798.293220052314
+Bolivia,BOL,2021,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,757.863166521587
+Bolivia,BOL,2020,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,657.745469205531
+Bolivia,BOL,2019,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,795.54274549867
+Bolivia,BOL,2018,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,803.127890554365
+Bolivia,BOL,2017,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,800.888183667631
+Bolivia,BOL,2016,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,778.965230116872
+Bolivia,BOL,2015,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,748.85994552389
+Bolivia,BOL,2014,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,757.547132518494
+Bolivia,BOL,2013,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,699.363675306555
+Bolivia,BOL,2012,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,703.763401801031
+Bolivia,BOL,2011,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,660.399933602591
+Bolivia,BOL,2010,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,625.49842839535
+Bolivia,BOL,2009,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,586.284286067628
+Bolivia,BOL,2008,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,572.261293056089
+Bolivia,BOL,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,570.3375548833
+Bolivia,BOL,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,568.36995826632
+Bolivia,BOL,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,567.496536227946
+Bolivia,BOL,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,523.192178579792
+Bolivia,BOL,2003,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,524.19320800163
+Bolivia,BOL,2002,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,520.021917040091
+Bolivia,BOL,2001,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,444.570211427174
+Bolivia,BOL,2000,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,424.497392990293
+Bolivia,BOL,1999,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,536.548837322983
+Bolivia,BOL,1998,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,557.889760775457
+Bolivia,BOL,1997,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,560.060715697775
+Bolivia,BOL,1996,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,520.943557851368
+Bolivia,BOL,1995,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,474.617697341087
+Bolivia,BOL,1994,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,430.219973488726
+Bolivia,BOL,1993,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,396.453818977116
+Bolivia,BOL,1992,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,377.234087378018
+Bolivia,BOL,1991,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,363.520178605686
+Bolivia,BOL,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,360.663520476773
+Bolivia,BOL,1989,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,351.881314842119
+Bolivia,BOL,1988,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,337.393797213023
+Bolivia,BOL,1987,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,329.798651018908
+Bolivia,BOL,1986,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,363.55644939877
+Bolivia,BOL,1985,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,392.762209942513
+Bolivia,BOL,1984,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,406.309556329423
+Bolivia,BOL,1983,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,416.231749242974
+Bolivia,BOL,1982,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,448.326611375573
+Bolivia,BOL,1981,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,435.797808770184
+Bolivia,BOL,1980,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,424.472902811301
+Bolivia,BOL,1979,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,367.655925420838
+Bolivia,BOL,1978,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,341.590295129669
+Bolivia,BOL,1977,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,322.429536474613
+Bolivia,BOL,1976,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,308.543752339962
+Bolivia,BOL,1975,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,288.207641830067
+Bolivia,BOL,1974,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,254.443078362759
+Bolivia,BOL,1973,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,243.014337501527
+Bolivia,BOL,1972,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,234.991912064584
+Bolivia,BOL,1971,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,217.418330407116
+Bolivia,BOL,2017,Time to obtain an electrical connection (days),IC.ELC.DURS,30.03066063
+Bolivia,BOL,2010,Time to obtain an electrical connection (days),IC.ELC.DURS,21.22020531
+Bolivia,BOL,2006,Time to obtain an electrical connection (days),IC.ELC.DURS,15.22884464
+Bolivia,BOL,2017,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,36.96278763
+Bolivia,BOL,2010,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,27.76519203
+Bolivia,BOL,2006,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,22.24474907
+Bolivia,BOL,2017,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,0
+Bolivia,BOL,2010,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,0
+Bolivia,BOL,2006,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,0
+Bolivia,BOL,2008,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,20000000
+Bolivia,BOL,2007,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,63800000
+Bolivia,BOL,2006,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,53500000
+Bolivia,BOL,2005,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,126700000
+Bolivia,BOL,2004,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,25900000
+Bolivia,BOL,2003,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,29100000
+Bolivia,BOL,2002,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,474000000
+Bolivia,BOL,2001,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,64400000
+Bolivia,BOL,2000,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,164300000
+Bolivia,BOL,1999,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,126700000
+Bolivia,BOL,1998,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,2281600000
+Bolivia,BOL,1997,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,169100000
+Bolivia,BOL,1995,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,252400000
+Bolivia,BOL,2021,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1832029713.73709
+Bolivia,BOL,2020,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,122143936.874688
+Bolivia,BOL,2019,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,178731859.681359
+Bolivia,BOL,2018,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,368229301.983614
+Bolivia,BOL,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,670097569.067398
+Bolivia,BOL,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,187307196.860534
+Bolivia,BOL,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,38950126.5567585
+Bolivia,BOL,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,545455007.569165
+Bolivia,BOL,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,586065576.031034
+Bolivia,BOL,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,642101469.345267
+Bolivia,BOL,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,903386161.962628
+Bolivia,BOL,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,474051283.155808
+Bolivia,BOL,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,212056779.886596
+Bolivia,BOL,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,415405005.575919
+Bolivia,BOL,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,436593522.45407
+Bolivia,BOL,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,311889888.536487
+Bolivia,BOL,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,62603156.0820733
+Bolivia,BOL,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,33990610.9110435
+Bolivia,BOL,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,13288644.9552989
+Bolivia,BOL,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,17276845.8742607
+Bolivia,BOL,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,6828815.40170968
+Bolivia,BOL,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,17166443.4713861
+Bolivia,BOL,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,12845738.5588781
+Bolivia,BOL,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,11587850.2227903
+Bolivia,BOL,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,78371018.6496004
+Bolivia,BOL,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,81624575.6729892
+Bolivia,BOL,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,103347650.644061
+Bolivia,BOL,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,76022230.3974101
+Bolivia,BOL,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,13862675.021921
+Bolivia,BOL,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,37916973.0604512
+Bolivia,BOL,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,41558203.8629465
+Bolivia,BOL,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,77667500.8130556
+Bolivia,BOL,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,99949883.9468813
+Bolivia,BOL,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,62264328.8200949
+Bolivia,BOL,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,7901993.8783977
+Bolivia,BOL,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1168240.37487177
+Bolivia,BOL,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,11427227.9843217
+Bolivia,BOL,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,24883272.8571486
+Bolivia,BOL,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,33532354.8908367
+Bolivia,BOL,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,29004476.1748952
+Bolivia,BOL,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,43547764.5362416
+Bolivia,BOL,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,122631281.904643
+Bolivia,BOL,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,83927031.1552777
+Bolivia,BOL,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,61356266.2263461
+Bolivia,BOL,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,52148374.2550605
+Bolivia,BOL,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,8433959.31541664
+Bolivia,BOL,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,9615486.96221471
+Bolivia,BOL,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,59763386.3974874
+Bolivia,BOL,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,24265780.1564079
+Bolivia,BOL,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3849827.84597665
+Bolivia,BOL,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2761816.0831504
+Bolivia,BOL,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5557726.89963066
+Bolivia,BOL,2021,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,4.65354673428505
+Bolivia,BOL,2020,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.337293423922369
+Bolivia,BOL,2019,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.446166772108712
+Bolivia,BOL,2018,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.936684393991302
+Bolivia,BOL,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.84097817687095
+Bolivia,BOL,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.562142564600919
+Bolivia,BOL,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.122203757812141
+Bolivia,BOL,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.74276640269324
+Bolivia,BOL,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,2.03837780394057
+Bolivia,BOL,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,2.52247468702597
+Bolivia,BOL,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,3.93165013099695
+Bolivia,BOL,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,2.52683190575289
+Bolivia,BOL,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.27237752171759
+Bolivia,BOL,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,2.57408825299499
+Bolivia,BOL,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,3.45659421526308
+Bolivia,BOL,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,2.82135213926443
+Bolivia,BOL,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.682492357856505
+Bolivia,BOL,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.405193677703121
+Bolivia,BOL,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.170793816739142
+Bolivia,BOL,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.224351743221767
+Bolivia,BOL,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0861095891151266
+Bolivia,BOL,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.210054371057128
+Bolivia,BOL,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.158807468483105
+Bolivia,BOL,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.139020649399788
+Bolivia,BOL,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.01396356861405
+Bolivia,BOL,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.13544625017058
+Bolivia,BOL,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.58785842630707
+Bolivia,BOL,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.31101196093214
+Bolivia,BOL,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.250736720434385
+Bolivia,BOL,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.69621066395489
+Bolivia,BOL,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.81546255371797
+Bolivia,BOL,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.68148501952089
+Bolivia,BOL,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,2.24259833171959
+Bolivia,BOL,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.4370408944491
+Bolivia,BOL,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.195307539547046
+Bolivia,BOL,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0320079961503955
+Bolivia,BOL,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.228344648528548
+Bolivia,BOL,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.432406559826511
+Bolivia,BOL,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.662610826245755
+Bolivia,BOL,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.560279120730685
+Bolivia,BOL,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.790260677183831
+Bolivia,BOL,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,2.87609171739212
+Bolivia,BOL,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.97985783703152
+Bolivia,BOL,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.68361316376381
+Bolivia,BOL,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.65008940834563
+Bolivia,BOL,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.312312877633939
+Bolivia,BOL,2021,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,902657904.743525
+Bolivia,BOL,2020,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,439930983.043292
+Bolivia,BOL,2019,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,926278703.893107
+Bolivia,BOL,2018,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1135239614.91446
+Bolivia,BOL,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,617048932.392679
+Bolivia,BOL,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,455301851.124408
+Bolivia,BOL,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,906516938.813618
+Bolivia,BOL,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2070331968.21185
+Bolivia,BOL,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2162595925.70027
+Bolivia,BOL,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1796164909.05876
+Bolivia,BOL,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,978707523.690897
+Bolivia,BOL,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,497702471.045387
+Bolivia,BOL,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,400397248.015892
+Bolivia,BOL,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,749927164.321505
+Bolivia,BOL,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,616514669.349242
+Bolivia,BOL,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,701413199.591193
+Bolivia,BOL,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,589426556.433873
+Bolivia,BOL,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,341344579.825451
+Bolivia,BOL,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,204155051.342733
+Bolivia,BOL,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,175616607.90612
+Bolivia,BOL,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,158756648.796823
+Bolivia,BOL,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,261425876.893847
+Bolivia,BOL,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,140397944.681472
+Bolivia,BOL,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,102983566.413712
+Bolivia,BOL,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,121044978.873136
+Bolivia,BOL,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,139185265.432942
+Bolivia,BOL,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,104563198.602421
+Bolivia,BOL,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,80078804.9018177
+Bolivia,BOL,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,81712798.6156126
+Bolivia,BOL,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,77434031.5998427
+Bolivia,BOL,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,73067052.8727605
+Bolivia,BOL,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,107368245.278326
+Bolivia,BOL,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,83870485.8299063
+Bolivia,BOL,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,58834720.4422011
+Bolivia,BOL,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,73006547.7154125
+Bolivia,BOL,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,45624867.1724149
+Bolivia,BOL,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,98178500.6850262
+Bolivia,BOL,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,119931171.156366
+Bolivia,BOL,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,105306613.808358
+Bolivia,BOL,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,91188644.7871582
+Bolivia,BOL,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,143681858.764753
+Bolivia,BOL,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,206854149.124991
+Bolivia,BOL,1979,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,157197172.103462
+Bolivia,BOL,1978,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,58083340.4886416
+Bolivia,BOL,1977,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,40581497.9023048
+Bolivia,BOL,1976,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,65141900.8719123
+Bolivia,BOL,1975,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,60196815.7382719
+Bolivia,BOL,1974,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,60182600.691046
+Bolivia,BOL,1973,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,10508524.6513239
+Bolivia,BOL,1972,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5790894.88434856
+Bolivia,BOL,1971,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5996171.61498869
+Bolivia,BOL,1970,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3456574.09582632
+Bolivia,BOL,2021,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.29284531429747
+Bolivia,BOL,2020,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.21484398945188
+Bolivia,BOL,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.31226139607013
+Bolivia,BOL,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.88776918350293
+Bolivia,BOL,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.69523614326406
+Bolivia,BOL,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.3664426917306
+Bolivia,BOL,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.84414419763062
+Bolivia,BOL,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,6.61485355630154
+Bolivia,BOL,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,7.52166261614094
+Bolivia,BOL,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,7.05617528245952
+Bolivia,BOL,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,4.25945816500806
+Bolivia,BOL,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.65289965051354
+Bolivia,BOL,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.40245305245818
+Bolivia,BOL,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,4.64697988317579
+Bolivia,BOL,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,4.88106426251803
+Bolivia,BOL,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,6.34497527464218
+Bolivia,BOL,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,6.42586005977721
+Bolivia,BOL,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,4.06908443115285
+Bolivia,BOL,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.62392595653608
+Bolivia,BOL,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.2805026107879
+Bolivia,BOL,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.00188012019864
+Bolivia,BOL,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,3.19889488119819
+Bolivia,BOL,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.73569172943239
+Bolivia,BOL,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.23550460224132
+Bolivia,BOL,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.56607890079584
+Bolivia,BOL,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.93614957764648
+Bolivia,BOL,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.60653440061548
+Bolivia,BOL,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.38096804703865
+Bolivia,BOL,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.47795422672723
+Bolivia,BOL,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.42180121991491
+Bolivia,BOL,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.43373485833906
+Bolivia,BOL,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.32449987598161
+Bolivia,BOL,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.88182121054407
+Bolivia,BOL,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.35788662451038
+Bolivia,BOL,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.80444700724224
+Bolivia,BOL,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.25005144851055
+Bolivia,BOL,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.96185245124545
+Bolivia,BOL,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.08409180871843
+Bolivia,BOL,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.08089478391412
+Bolivia,BOL,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.76148996499353
+Bolivia,BOL,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.60739269203978
+Bolivia,BOL,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,4.85138453880957
+Bolivia,BOL,1979,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,3.70831719964468
+Bolivia,BOL,1978,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.593804229894
+Bolivia,BOL,1977,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.28408796669045
+Bolivia,BOL,1976,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.41223057344648
+Bolivia,BOL,2021,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.94639204858252
+Bolivia,BOL,2020,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.55213741337425
+Bolivia,BOL,2019,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.75842816817884
+Bolivia,BOL,2018,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.82445357749423
+Bolivia,BOL,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.53621432013501
+Bolivia,BOL,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.92858525633152
+Bolivia,BOL,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.96634795544276
+Bolivia,BOL,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.35761995899478
+Bolivia,BOL,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.56004042008151
+Bolivia,BOL,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.57864996948549
+Bolivia,BOL,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.19110829600501
+Bolivia,BOL,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.17973155626643
+Bolivia,BOL,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.67483057417577
+Bolivia,BOL,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.22106813617078
+Bolivia,BOL,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.33765847778111
+Bolivia,BOL,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.16632741390661
+Bolivia,BOL,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.10835241763372
+Bolivia,BOL,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.47427810885597
+Bolivia,BOL,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.79471977327522
+Bolivia,BOL,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.50485435400967
+Bolivia,BOL,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.08798970931377
+Bolivia,BOL,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.40894925225532
+Bolivia,BOL,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.89449919791549
+Bolivia,BOL,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.37452525164111
+Bolivia,BOL,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.58004246940989
+Bolivia,BOL,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.07159582781706
+Bolivia,BOL,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.19439282692255
+Bolivia,BOL,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.69198000797079
+Bolivia,BOL,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.72869094716162
+Bolivia,BOL,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.1180118838698
+Bolivia,BOL,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.24919741205703
+Bolivia,BOL,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.0059848955025
+Bolivia,BOL,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.12441954226366
+Bolivia,BOL,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.79492751895948
+Bolivia,BOL,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.99975454678929
+Bolivia,BOL,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.28205944466095
+Bolivia,BOL,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.190197099774
+Bolivia,BOL,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.51649836854494
+Bolivia,BOL,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.74350561015987
+Bolivia,BOL,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.32176908572422
+Bolivia,BOL,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.39765336922361
+Bolivia,BOL,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.72747625620169
+Bolivia,BOL,1979,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.6881750366762
+Bolivia,BOL,1978,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.27741739365781
+Bolivia,BOL,1977,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.93417737503608
+Bolivia,BOL,1976,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.72454345108042
+Bolivia,BOL,2021,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,5.91005603334556
+Bolivia,BOL,2020,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.453988608258518
+Bolivia,BOL,2019,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.562741001877922
+Bolivia,BOL,2018,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.16643513443381
+Bolivia,BOL,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.42321513255476
+Bolivia,BOL,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.707160512505969
+Bolivia,BOL,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.154530695755321
+Bolivia,BOL,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.18635765248212
+Bolivia,BOL,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.55541456378636
+Bolivia,BOL,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.23074692838332
+Bolivia,BOL,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,5.12663676709338
+Bolivia,BOL,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.2482634773025
+Bolivia,BOL,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.63166193147975
+Bolivia,BOL,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.46252645043463
+Bolivia,BOL,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.52067350442681
+Bolivia,BOL,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.57670624063231
+Bolivia,BOL,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.913753281667752
+Bolivia,BOL,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.56359830222864
+Bolivia,BOL,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.23473798970115
+Bolivia,BOL,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.224689917053631
+Bolivia,BOL,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.121156626329288
+Bolivia,BOL,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.278147845667971
+Bolivia,BOL,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.211120591313388
+Bolivia,BOL,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.169697256119387
+Bolivia,BOL,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.26953717155461
+Bolivia,BOL,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.46212762695585
+Bolivia,BOL,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.04389063801456
+Bolivia,BOL,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.73890914907193
+Bolivia,BOL,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.798346265084072
+Bolivia,BOL,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.09727031615049
+Bolivia,BOL,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.18788762413393
+Bolivia,BOL,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.04173796185884
+Bolivia,BOL,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.2511982472232
+Bolivia,BOL,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.04753900791756
+Bolivia,BOL,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.467650145305885
+Bolivia,BOL,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0779394113952785
+Bolivia,BOL,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.405535200879668
+Bolivia,BOL,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.707916274590702
+Bolivia,BOL,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.1370234951631
+Bolivia,BOL,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.986962633807602
+Bolivia,BOL,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.31226812908617
+Bolivia,BOL,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.40201554589631
+Bolivia,BOL,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.13496448766853
+Bolivia,BOL,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.62688110466736
+Bolivia,BOL,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.61633282115755
+Bolivia,BOL,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.431358154117883
+Bolivia,BOL,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.530852098947061
+Bolivia,BOL,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.14524681973909
+Bolivia,BOL,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.71394460214494
+Bolivia,BOL,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.528017210093262
+Bolivia,BOL,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.469637163444323
+Bolivia,BOL,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.05118143849649
+Bolivia,BOL,2021,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.85442902804369
+Bolivia,BOL,2020,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.20542213557419
+Bolivia,BOL,2019,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.06571007254961
+Bolivia,BOL,2018,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.2533911778168
+Bolivia,BOL,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.0880253133197
+Bolivia,BOL,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.926800497644539
+Bolivia,BOL,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.33856535298855
+Bolivia,BOL,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,4.77969194953676
+Bolivia,BOL,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,5.55829339354152
+Bolivia,BOL,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,5.04123047708524
+Bolivia,BOL,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,4.72620152059823
+Bolivia,BOL,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.34929579123048
+Bolivia,BOL,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.30564306364059
+Bolivia,BOL,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.64008440973696
+Bolivia,BOL,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.98560882647042
+Bolivia,BOL,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.55806070652127
+Bolivia,BOL,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.83615706373774
+Bolivia,BOL,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.31796776619707
+Bolivia,BOL,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.02122652481984
+Bolivia,BOL,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.10088698094808
+Bolivia,BOL,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.10433905071583
+Bolivia,BOL,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.772562074092428
+Bolivia,BOL,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.320800790853637
+Bolivia,BOL,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.264054370006603
+Bolivia,BOL,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.385551525773547
+Bolivia,BOL,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.405157180948825
+Bolivia,BOL,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.448012489750806
+Bolivia,BOL,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.53602284659459
+Bolivia,BOL,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.635138288006385
+Bolivia,BOL,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.55581800292962
+Bolivia,BOL,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.618763513014861
+Bolivia,BOL,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.862462574435177
+Bolivia,BOL,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.69739802194161
+Bolivia,BOL,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.536813425888193
+Bolivia,BOL,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.599810821739996
+Bolivia,BOL,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.896835071018122
+Bolivia,BOL,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.762303434066817
+Bolivia,BOL,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.702557158114853
+Bolivia,BOL,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.653856951411134
+Bolivia,BOL,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.112572959783309
+Bolivia,BOL,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.48796664760095
+Bolivia,BOL,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.0520260030591
+Bolivia,BOL,1979,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.384692017980359
+Bolivia,BOL,1978,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0613971732363734
+Bolivia,BOL,1977,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0306489103405502
+Bolivia,BOL,1976,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.462708264111432
+Bolivia,BOL,1975,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.520078573219649
+Bolivia,BOL,1974,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.322319828565483
+Bolivia,BOL,1973,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0689966230197258
+Bolivia,BOL,1972,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0457102012203248
+Bolivia,BOL,1971,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.00185471055387267
+Bolivia,BOL,1970,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.00123112675379569
+Bolivia,BOL,2021,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.26335187425347
+Bolivia,BOL,2020,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.497346305966912
+Bolivia,BOL,2019,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.0303191682966
+Bolivia,BOL,2018,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.4498952900262
+Bolivia,BOL,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.02986757658124
+Bolivia,BOL,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.788114698375915
+Bolivia,BOL,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.14024731448316
+Bolivia,BOL,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,3.03332355757079
+Bolivia,BOL,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,3.31838837807072
+Bolivia,BOL,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,3.58582706729094
+Bolivia,BOL,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,3.57882129837961
+Bolivia,BOL,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.81120414194023
+Bolivia,BOL,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.99901854108232
+Bolivia,BOL,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,5.13358898631882
+Bolivia,BOL,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,4.87482833139779
+Bolivia,BOL,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,6.90511113358437
+Bolivia,BOL,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,7.33080300030145
+Bolivia,BOL,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,5.08868092656529
+Bolivia,BOL,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,3.57840976144804
+Bolivia,BOL,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,3.20143436722118
+Bolivia,BOL,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.70191454521148
+Bolivia,BOL,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,3.20071915897547
+Bolivia,BOL,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.83148099301924
+Bolivia,BOL,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.24033297671521
+Bolivia,BOL,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.64557088716868
+Bolivia,BOL,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.08266621438735
+Bolivia,BOL,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.67539093460871
+Bolivia,BOL,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.32063764470926
+Bolivia,BOL,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.3937400044077
+Bolivia,BOL,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.42097317088114
+Bolivia,BOL,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.37366238218404
+Bolivia,BOL,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.75361755081365
+Bolivia,BOL,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.14090278296784
+Bolivia,BOL,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.45643295413321
+Bolivia,BOL,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.98031887414419
+Bolivia,BOL,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.13382149372689
+Bolivia,BOL,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.14769704421791
+Bolivia,BOL,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.28481799586335
+Bolivia,BOL,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.51904585140964
+Bolivia,BOL,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.9497511710971
+Bolivia,BOL,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.84128762572181
+Bolivia,BOL,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,5.44751163751417
+Bolivia,BOL,1979,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,4.44938590228508
+Bolivia,BOL,1978,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.97464196310885
+Bolivia,BOL,1977,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.70014358966065
+Bolivia,BOL,1976,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.87079668141286
+Bolivia,BOL,1975,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,2.99141060687901
+Bolivia,BOL,1974,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,3.52258007760293
+Bolivia,BOL,1973,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.0309604428977
+Bolivia,BOL,1972,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.571149783034975
+Bolivia,BOL,1971,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.665714020190133
+Bolivia,BOL,1970,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.414649790617165
+Bolivia,BOL,2021,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.46769419569564
+Bolivia,BOL,2020,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.7203797976672
+Bolivia,BOL,2019,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.09529358747088
+Bolivia,BOL,2018,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.37166725772886
+Bolivia,BOL,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.01456692473101
+Bolivia,BOL,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.97275312620724
+Bolivia,BOL,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.11807754841214
+Bolivia,BOL,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.5328802221264
+Bolivia,BOL,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.9598682861297
+Bolivia,BOL,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.3531411069095
+Bolivia,BOL,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.001095606139
+Bolivia,BOL,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.16161212209317
+Bolivia,BOL,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.44851742232197
+Bolivia,BOL,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.7766867611472
+Bolivia,BOL,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.9849345825977
+Bolivia,BOL,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.6334565247073
+Bolivia,BOL,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.5452208680479
+Bolivia,BOL,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.4299811875095
+Bolivia,BOL,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.31627802754268
+Bolivia,BOL,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.94485124710044
+Bolivia,BOL,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.33368686543391
+Bolivia,BOL,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.61282788346862
+Bolivia,BOL,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.77497627522259
+Bolivia,BOL,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.23594806398861
+Bolivia,BOL,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.01382529219893
+Bolivia,BOL,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.73280305606934
+Bolivia,BOL,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.11080000814782
+Bolivia,BOL,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.41108909617144
+Bolivia,BOL,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.64155613379886
+Bolivia,BOL,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.83579549195986
+Bolivia,BOL,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.86536252330757
+Bolivia,BOL,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.28776717511939
+Bolivia,BOL,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.4237948553511
+Bolivia,BOL,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.36042214815822
+Bolivia,BOL,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.61638536540683
+Bolivia,BOL,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.50385639964433
+Bolivia,BOL,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.51239464709064
+Bolivia,BOL,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.90523863325772
+Bolivia,BOL,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.69810993606131
+Bolivia,BOL,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.88183938441437
+Bolivia,BOL,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.13576825558408
+Bolivia,BOL,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.6971201422054
+Bolivia,BOL,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.8102393990601
+Bolivia,BOL,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.2938418538521
+Bolivia,BOL,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.93349327282901
+Bolivia,BOL,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.28977128412561
+Bolivia,BOL,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.71568892233748
+Bolivia,BOL,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.57918560262433
+Bolivia,BOL,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.62783678157376
+Bolivia,BOL,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.60774067196897
+Bolivia,BOL,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.60568602023854
+Bolivia,BOL,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.99545883045688
+Bolivia,BOL,2024,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,29.1909878652877
+Bolivia,BOL,2023,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,26.387448829158
+Bolivia,BOL,2022,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,33.7917692556671
+Bolivia,BOL,2021,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.6048455050533
+Bolivia,BOL,2020,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.1856017009432
+Bolivia,BOL,2019,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.2525738644242
+Bolivia,BOL,2018,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.0304916127139
+Bolivia,BOL,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.4813548073091
+Bolivia,BOL,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.54122528248566
+Bolivia,BOL,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.6811546752876
+Bolivia,BOL,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.9779683966118
+Bolivia,BOL,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.3869536826989
+Bolivia,BOL,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.9770827817745
+Bolivia,BOL,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.0023536783726
+Bolivia,BOL,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.2638338070818
+Bolivia,BOL,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.9685304258115
+Bolivia,BOL,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.3625973225784
+Bolivia,BOL,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.17761116620897
+Bolivia,BOL,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.72525421869149
+Bolivia,BOL,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.3134975064406
+Bolivia,BOL,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.11135534204217
+Bolivia,BOL,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.3023740005128
+Bolivia,BOL,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.01043944035498
+Bolivia,BOL,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.15203804905133
+Bolivia,BOL,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.84909064272744
+Bolivia,BOL,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.54454721483898
+Bolivia,BOL,1998,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.67561837744512
+Bolivia,BOL,1997,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.49823672827949
+Bolivia,BOL,1996,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.84942253383971
+Bolivia,BOL,1995,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.50030095500703
+Bolivia,BOL,1994,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.97823783977818
+Bolivia,BOL,1993,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.81298325732088
+Bolivia,BOL,1992,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.26825322898537
+Bolivia,BOL,1987,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.436102098400647
+Bolivia,BOL,1986,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.477680565835382
+Bolivia,BOL,1985,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.479008611102439
+Bolivia,BOL,1984,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.519251692198774
+Bolivia,BOL,1983,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.944016006957536
+Bolivia,BOL,1982,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.87379713208626
+Bolivia,BOL,1981,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.74641169470456
+Bolivia,BOL,1980,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.547322240547592
+Bolivia,BOL,1979,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.84088521166484
+Bolivia,BOL,1978,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.41486560002375
+Bolivia,BOL,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.44290246898742
+Bolivia,BOL,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.80252612191561
+Bolivia,BOL,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.18840235119613
+Bolivia,BOL,1974,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.04106871588813
+Bolivia,BOL,1972,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.89008048089046
+Bolivia,BOL,1971,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.25007051007412
+Bolivia,BOL,1970,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.2376192955564
+Bolivia,BOL,1969,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.07693935438662
+Bolivia,BOL,1968,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.27083938439476
+Bolivia,BOL,1967,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.10623034720486
+Bolivia,BOL,1966,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.46388002148369
+Bolivia,BOL,1965,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.21356965629609
+Bolivia,BOL,1964,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.60573089805841
+Bolivia,BOL,1963,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.79758557411497
+Bolivia,BOL,1962,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.68890410271329
+Bolivia,BOL,2024,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.882457864756909
+Bolivia,BOL,2023,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.740064646192221
+Bolivia,BOL,2022,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.66426241276154
+Bolivia,BOL,2021,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.786881097768726
+Bolivia,BOL,2020,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.862510986947629
+Bolivia,BOL,2019,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.778547196075447
+Bolivia,BOL,2018,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.70098043252495
+Bolivia,BOL,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.69626606844129
+Bolivia,BOL,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.722126591555116
+Bolivia,BOL,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.580494579529167
+Bolivia,BOL,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.634938495570276
+Bolivia,BOL,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.649407326039524
+Bolivia,BOL,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.662634301393964
+Bolivia,BOL,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.678530471548711
+Bolivia,BOL,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.790629320052134
+Bolivia,BOL,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.826099690457367
+Bolivia,BOL,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.814922968257894
+Bolivia,BOL,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.780753623228219
+Bolivia,BOL,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.786082238933792
+Bolivia,BOL,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.733449831692673
+Bolivia,BOL,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.680157606725198
+Bolivia,BOL,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.652162923715786
+Bolivia,BOL,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.696829012432933
+Bolivia,BOL,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.529248005641575
+Bolivia,BOL,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.605285943204916
+Bolivia,BOL,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.657497226575391
+Bolivia,BOL,1998,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.580214738597155
+Bolivia,BOL,1997,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.48824527771697
+Bolivia,BOL,1996,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.08051270815074
+Bolivia,BOL,1995,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.57464434470442
+Bolivia,BOL,1994,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.51186893179213
+Bolivia,BOL,1993,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.14048318187034
+Bolivia,BOL,1992,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.19402435402713
+Bolivia,BOL,1987,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.607095763927714
+Bolivia,BOL,1986,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.614910802497416
+Bolivia,BOL,1985,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.582029830397749
+Bolivia,BOL,1984,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.667369257657232
+Bolivia,BOL,1983,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.14750181025187
+Bolivia,BOL,1982,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.21182993835323
+Bolivia,BOL,1981,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.23614138722348
+Bolivia,BOL,1980,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.50126481023221
+Bolivia,BOL,1979,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.949737913908254
+Bolivia,BOL,1978,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.04289009801091
+Bolivia,BOL,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.811498496366346
+Bolivia,BOL,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.761249999730388
+Bolivia,BOL,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.939497528260872
+Bolivia,BOL,1974,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.10966056086556
+Bolivia,BOL,1972,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.646158343350438
+Bolivia,BOL,1971,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.652487020015051
+Bolivia,BOL,1970,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.83595045717585
+Bolivia,BOL,1969,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.726052055037421
+Bolivia,BOL,1968,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.88699507971486
+Bolivia,BOL,1967,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.719313787736868
+Bolivia,BOL,1966,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.903526902359946
+Bolivia,BOL,1965,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.526364941936099
+Bolivia,BOL,1964,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.422165107750147
+Bolivia,BOL,1963,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.47580110069894
+Bolivia,BOL,1962,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.598979324462168
+Bolivia,BOL,2024,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,18.9433899156143
+Bolivia,BOL,2023,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,19.7390284484517
+Bolivia,BOL,2022,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,22.7288338190063
+Bolivia,BOL,2021,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,21.4767656503189
+Bolivia,BOL,2020,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,29.4701072049889
+Bolivia,BOL,2019,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,32.0714901886577
+Bolivia,BOL,2018,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,34.8526923233055
+Bolivia,BOL,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,33.2474626156162
+Bolivia,BOL,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,31.1663267980126
+Bolivia,BOL,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,46.1471961581206
+Bolivia,BOL,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,51.740358250386
+Bolivia,BOL,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,54.5398474110676
+Bolivia,BOL,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,50.0146584363154
+Bolivia,BOL,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,45.3581817460597
+Bolivia,BOL,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,43.2688115125649
+Bolivia,BOL,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,39.5433516744626
+Bolivia,BOL,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,51.1866049934702
+Bolivia,BOL,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,47.5095338694939
+Bolivia,BOL,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,48.8382325972114
+Bolivia,BOL,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,47.8301459653094
+Bolivia,BOL,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,37.5739969111581
+Bolivia,BOL,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,30.1389419296459
+Bolivia,BOL,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,24.9742676784933
+Bolivia,BOL,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,22.4397697760694
+Bolivia,BOL,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,12.1942402416879
+Bolivia,BOL,1999,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.26722651510801
+Bolivia,BOL,1998,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,7.28497112896233
+Bolivia,BOL,1997,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,8.41558907225538
+Bolivia,BOL,1996,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,13.0738735089195
+Bolivia,BOL,1995,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,12.9404641892439
+Bolivia,BOL,1994,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,9.52179302499781
+Bolivia,BOL,1993,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,12.7383036713833
+Bolivia,BOL,1992,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,16.4779970409837
+Bolivia,BOL,1987,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,44.9388892139974
+Bolivia,BOL,1986,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,52.2680366540488
+Bolivia,BOL,1985,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,55.6587844747595
+Bolivia,BOL,1984,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,49.7863349373093
+Bolivia,BOL,1983,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,51.3792933394652
+Bolivia,BOL,1982,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,44.4917238946492
+Bolivia,BOL,1981,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,34.1726451794452
+Bolivia,BOL,1980,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,23.6575981835651
+Bolivia,BOL,1979,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,13.5671612030845
+Bolivia,BOL,1978,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,16.6709413767396
+Bolivia,BOL,1977,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,18.5666114235508
+Bolivia,BOL,1976,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,26.2940542435571
+Bolivia,BOL,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,29.0466093305105
+Bolivia,BOL,1974,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,29.8262132118384
+Bolivia,BOL,1973,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,18.6190469965337
+Bolivia,BOL,1972,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,17.2974529664717
+Bolivia,BOL,1971,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,11.0598222137505
+Bolivia,BOL,1970,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,4.5311321204693
+Bolivia,BOL,1969,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,11.6994371637236
+Bolivia,BOL,1968,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,14.2349087285348
+Bolivia,BOL,1967,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,13.7562148508282
+Bolivia,BOL,1966,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,4.40718620627226
+Bolivia,BOL,1965,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.575444256620984
+Bolivia,BOL,1964,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.642442449493938
+Bolivia,BOL,1963,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.20044449151714
+Bolivia,BOL,1962,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.93967855863507
+Bolivia,BOL,2024,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,43.5898503549869
+Bolivia,BOL,2023,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,29.5215239053543
+Bolivia,BOL,2022,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,26.7709560207193
+Bolivia,BOL,2021,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,30.7299289920912
+Bolivia,BOL,2020,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,26.9900375271782
+Bolivia,BOL,2019,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,28.7308578790733
+Bolivia,BOL,2018,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,31.649587526274
+Bolivia,BOL,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,34.6200209998608
+Bolivia,BOL,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,32.6279589961985
+Bolivia,BOL,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,24.2831109200154
+Bolivia,BOL,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,19.8526075048587
+Bolivia,BOL,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,20.5196465688681
+Bolivia,BOL,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,22.3428743824272
+Bolivia,BOL,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,34.4913812656436
+Bolivia,BOL,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,32.876655560038
+Bolivia,BOL,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,31.9678407586727
+Bolivia,BOL,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,25.8817263896327
+Bolivia,BOL,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,26.2629671426936
+Bolivia,BOL,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,22.0373220569285
+Bolivia,BOL,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,16.3854420918351
+Bolivia,BOL,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,18.5649435013146
+Bolivia,BOL,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,17.6932791680357
+Bolivia,BOL,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,18.5272050685105
+Bolivia,BOL,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,18.2065420131146
+Bolivia,BOL,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,23.1026067009569
+Bolivia,BOL,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,21.7611775878767
+Bolivia,BOL,1998,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,23.9613251655874
+Bolivia,BOL,1997,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,29.9772275189085
+Bolivia,BOL,1996,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,32.3243289328342
+Bolivia,BOL,1995,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,31.456281931947
+Bolivia,BOL,1994,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,28.3131675463629
+Bolivia,BOL,1993,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,38.1696156786383
+Bolivia,BOL,1992,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,49.0791740494336
+Bolivia,BOL,1987,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,36.3524217747793
+Bolivia,BOL,1986,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,30.8335417090773
+Bolivia,BOL,1985,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,39.0305963282701
+Bolivia,BOL,1984,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,46.3453064454672
+Bolivia,BOL,1983,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,42.399754400728
+Bolivia,BOL,1982,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,46.5411289959773
+Bolivia,BOL,1981,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,56.4831868909809
+Bolivia,BOL,1980,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,62.0945285788318
+Bolivia,BOL,1979,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,70.4293510447328
+Bolivia,BOL,1978,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,71.3734616720063
+Bolivia,BOL,1977,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,65.898229635048
+Bolivia,BOL,1976,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,57.8609520397713
+Bolivia,BOL,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,56.4095763769901
+Bolivia,BOL,1974,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,58.0057816821812
+Bolivia,BOL,1973,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,69.8443598940585
+Bolivia,BOL,1972,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,72.4515281959863
+Bolivia,BOL,1971,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,78.0695779759142
+Bolivia,BOL,1970,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,88.0198251078995
+Bolivia,BOL,1969,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,84.1427004427543
+Bolivia,BOL,1968,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,81.3931332785447
+Bolivia,BOL,1967,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,76.349788214934
+Bolivia,BOL,1966,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,84.5851348513855
+Bolivia,BOL,1965,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,92.0000687398694
+Bolivia,BOL,1964,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,91.0172163510192
+Bolivia,BOL,1963,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,87.5701628048519
+Bolivia,BOL,1962,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,88.7938942524277
