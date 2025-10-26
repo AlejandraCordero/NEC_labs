@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv('dataset_bolivia.csv')
+data = pd.read_csv('cybersecurity_attacks.csv')
 
 print(data.head())
 
