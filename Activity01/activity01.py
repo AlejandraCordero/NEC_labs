@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv('cybersecurity_attacks.csv')
+data = pd.read_csv('AmesHousing.csv')
 
 print(data.head())
 
