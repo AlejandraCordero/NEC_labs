@@ -1,47 +1,45 @@
 import numpy as np
 
 class NeuralNet:
-    def __init__(self, n_units, epochs=100, lr=0.01, momentum=0.0,
-                 activation='tanh', val_pct=0.0, batch_size=1, random_state=None):
-        # n_units: list like [n_input, hidden1, ..., n_output]
-        self.n = [int(x) for x in n_units]   # n
-        self.L = len(self.n)                 # L
+    def __init__(self, n_units, epochs=100, lr=0.001, momentum=0.0,
+                 activation='tanh', val_pct=0.0, batch_size=32, random_state=None):
+        
+        # Architecture
+        self.n = [int(x) for x in n_units]   
+        self.L = len(self.n)                 
         self.epochs = int(epochs)
-        self.lr = float(lr)                  # learning rate (eta)
-        self.momentum = float(momentum)      # alpha
-        self.fact = activation               # activation name
-        self.val_pct = float(val_pct)        # validation percentage
+        self.lr = float(lr)
+        self.momentum = float(momentum)
+        self.fact = activation
+        self.val_pct = float(val_pct)
         self.batch_size = int(batch_size)
 
-        # Required arrays and structures (index 0 unused for weights idea)
+        # Initialize structures
         self.h = [None] * self.L
         self.xi = [None] * self.L
         self.w = [None] * self.L
         self.theta = [None] * self.L
         self.delta = [None] * self.L
-        self.d_w = [None] * self.L
-        self.d_theta = [None] * self.L
         self.d_w_prev = [None] * self.L
         self.d_theta_prev = [None] * self.L
 
-        # Initialize weights and thresholds (biases)
+        # Initialize weights
         rng = np.random.RandomState(random_state)
         for l in range(1, self.L):
             in_dim, out_dim = self.n[l-1], self.n[l]
-            bound = np.sqrt(2.0/(in_dim + out_dim)) 
+            bound = np.sqrt(2.0/(in_dim + out_dim))
             self.w[l] = rng.normal(0, bound, size=(out_dim, in_dim))
             self.theta[l] = np.zeros((out_dim, 1))
             self.d_w_prev[l] = np.zeros_like(self.w[l])
             self.d_theta_prev[l] = np.zeros_like(self.theta[l])
 
-        # history
         self.train_loss_hist = []
         self.val_loss_hist = []
 
-    # 2. Activation and derivate function
+    # ACTIVATION
     def _g(self, h):
         if self.fact == 'sigmoid':
-            return 1.0 / (1.0 + np.exp(-h))
+            return 1 / (1 + np.exp(-h))
         if self.fact == 'tanh':
             return np.tanh(h)
         if self.fact == 'relu':
@@ -50,81 +48,83 @@ class NeuralNet:
             return h
         raise ValueError("Unknown activation")
 
-    def _g_prime(self, h, out=None):
-        if self.fact == 'sigmoid': 
-            s = out if out is not None else 1.0/(1.0+np.exp(-h))
-            return s * (1 - s)
+    # DERIVATIVE
+    def _g_prime(self, out):
+        if self.fact == 'sigmoid':
+            return out * (1 - out)
         if self.fact == 'tanh':
-            t = out if out is not None else np.tanh(h)
-            return 1 - t**2
+            return 1 - out**2
         if self.fact == 'relu':
-            return (h > 0).astype(float)
+            return (out > 0).astype(float)
         if self.fact == 'linear':
-            return np.ones_like(h)
-        
-    # 3. Forward pass
-    def _forward(self, X_mat):
-        # When there is X_mat should be shape with n_features and n_samples)
-        self.xi[0] = X_mat
+            return np.ones_like(out)
+
+    # FORWARD
+    def _forward(self, X):
+        self.xi[0] = X
         for l in range(1, self.L):
-            h_l = self.w[l].dot(self.xi[l-1]) - self.theta[l]
-            self.h[l] = h_l
-            self.xi[l] = self._g(h_l)
-        return self.xi[self.L-1]   # activations
-    
-    #4. Deltas for the batch
-    def _compute_deltas(self, Y_target):
-        # Y_target shape, it has the n_output and n_samples
-        L = self.L
-        delta = [None]*self.L
-        out = self.xi[L-1]  # shape (n_out, n_samples)
-        hL = self.h[L-1]
-        delta[L-1] = self._g_prime(hL, out=out) * (out - Y_target)  # eq. (11)
+            h = self.w[l] @ self.xi[l-1] - self.theta[l]
+            self.h[l] = h
 
-        # backpropagate
-        for l in range(L-1, 1, -1):
-            # sum over the next layer deltas weighted by w[l]
-            sum_term = self.w[l].T.dot(delta[l])   # shape n[l-1], n_samples
-            delta[l-1] = self._g_prime(self.h[l-1], out=self.xi[l-1]) * sum_term
-        self.delta = delta
-        return delta
-    
-    # 5. Compute gradients and update weights with momentum
-    def _update_weights_from_batch(self, batch_X, batch_y):
-        # batch_X shape with n_samples_batch and n_features
-        X_mat = batch_X.T
-        Y = batch_y.reshape(1, -1) if batch_y.ndim == 1 else batch_y.T
-        self._forward(X_mat)
-        delta = self._compute_deltas(Y)
-        batch_size = batch_X.shape[0]
+            if l == self.L-1:
+                # output layer uses LINEAR activation for regression
+                self.xi[l] = h
+            else:
+                self.xi[l] = self._g(h)
+
+        return self.xi[-1]
+
+    # BACKWARD
+    def _compute_deltas(self, Y):
+        L = self.L - 1
+        out = self.xi[L]
+
+        # Output layer delta for regression (linear activation)
+        delta_L = (out - Y)
+        self.delta[L] = delta_L
+
+        # Backpropagate through hidden layers
+        for l in range(L, 0, -1):
+            if l == L:
+                continue
+            g_prime = self._g_prime(self.xi[l])
+            self.delta[l] = g_prime * (self.w[l+1].T @ self.delta[l+1])
+
+        return self.delta
+
+    # UPDATE WEIGHTS
+    def _update_weights(self, batch_X, batch_y):
+        X = batch_X.T
+        Y = batch_y.reshape(1, -1)
+
+        self._forward(X)
+        self._compute_deltas(Y)
+
+        batch_size = X.shape[1]
 
         for l in range(1, self.L):
-            xi_prev = self.xi[l-1]            # (n[l-1], batch_size)
-            Dl = delta[l]                     # (n[l], batch_size)
-            grad_w = Dl.dot(xi_prev.T)        # (n[l], n[l-1])
-            grad_theta = np.sum(Dl, axis=1, keepdims=True)  # (n[l],1)
+            grad_w = self.delta[l] @ self.xi[l-1].T
+            grad_theta = np.sum(self.delta[l], axis=1, keepdims=True)
 
-            dw = - self.lr * grad_w + self.momentum * (self.d_w_prev[l] if self.d_w_prev[l] is not None else 0)
-            dtheta = self.lr * grad_theta + self.momentum * (self.d_theta_prev[l] if self.d_theta_prev[l] is not None else 0)
+            dw = -self.lr * grad_w + self.momentum * self.d_w_prev[l]
+            dtheta = -self.lr * grad_theta + self.momentum * self.d_theta_prev[l]
 
-            # apply update for the batch_size
             self.w[l] += dw / batch_size
             self.theta[l] += dtheta / batch_size
 
             self.d_w_prev[l] = dw
             self.d_theta_prev[l] = dtheta
 
-    # 6. Fit the method, train the loop and split training and validation
+    # TRAIN
     def fit(self, X, y):
-        X = np.asarray(X, dtype=float)
-        y = np.asarray(y, dtype=float)
-        n_samples = X.shape[0]
+        X = np.asarray(X, float)
+        y = np.asarray(y, float)
+        n_samples = len(X)
 
-        # split into train and validation
+        # Split
         if self.val_pct > 0:
-            idx = np.arange(n_samples)
-            np.random.shuffle(idx)
-            cut = int((1.0 - self.val_pct) * n_samples)
+            idx = np.random.permutation(n_samples)
+            cut = int((1 - self.val_pct) * n_samples)
             train_idx, val_idx = idx[:cut], idx[cut:]
             X_train, y_train = X[train_idx], y[train_idx]
             X_val, y_val = X[val_idx], y[val_idx]
@@ -132,42 +132,37 @@ class NeuralNet:
             X_train, y_train = X, y
             X_val, y_val = None, None
 
-        n_train = X_train.shape[0]
-
         for epoch in range(self.epochs):
-            perm = np.random.permutation(n_train)
-            for start in range(0, n_train, self.batch_size):
-                batch_idx = perm[start:start+self.batch_size]
-                self._update_weights_from_batch(X_train[batch_idx], y_train[batch_idx])
+            perm = np.random.permutation(len(X_train))
 
-            # get the losses
-            y_hat_tr = self.predict(X_train)
-            train_mse = np.mean((y_hat_tr - y_train)**2)
-            self.train_loss_hist.append(train_mse)
+            for i in range(0, len(X_train), self.batch_size):
+                batch = perm[i:i+self.batch_size]
+                self._update_weights(X_train[batch], y_train[batch])
+
+            # Compute losses
+            y_pred = self.predict(X_train)
+            train_loss = np.mean((y_pred - y_train)**2)
+            self.train_loss_hist.append(train_loss)
 
             if X_val is not None:
-                y_hat_val = self.predict(X_val)
-                val_mse = np.mean((y_hat_val - y_val)**2)
-                self.val_loss_hist.append(val_mse)
+                y_val_pred = self.predict(X_val)
+                val_loss = np.mean((y_val_pred - y_val)**2)
+                self.val_loss_hist.append(val_loss)
             else:
                 self.val_loss_hist.append(np.nan)
 
-        return self
-    
-    # 7. Predict and loss_epochs
+    # PREDICT
     def predict(self, X):
-        X = np.asarray(X, dtype=float)
-        A = X.T
+        X = np.asarray(X, float).T
+        A = X
         for l in range(1, self.L):
-            H = self.w[l].dot(A) - self.theta[l]
-            A = self._g(H)
-        Y = A.T
-        if Y.shape[1] == 1:
-            return Y.ravel()
-        return Y
+            H = self.w[l] @ A - self.theta[l]
+            if l == self.L-1:
+                A = H  # linear output
+            else:
+                A = self._g(H)
+        return A.T.ravel()
 
+    # RETURN LOSS CURVES
     def loss_epochs(self):
-        arr = np.zeros((len(self.train_loss_hist), 2))
-        arr[:,0] = np.array(self.train_loss_hist)
-        arr[:,1] = np.array(self.val_loss_hist, dtype=float)
-        return arr
+        return np.column_stack([self.train_loss_hist, self.val_loss_hist])
