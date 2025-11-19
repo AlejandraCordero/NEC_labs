@@ -46,7 +46,7 @@ class NeuralNet:
             return np.maximum(0, h)
         if self.fact == 'linear':
             return h
-        raise ValueError("Unknown activation")
+        #raise ValueError("Unknown activation")
 
     # DERIVATIVE
     def _g_prime(self, out):
@@ -68,6 +68,7 @@ class NeuralNet:
 
             if l == self.L-1:
                 # output layer uses LINEAR activation for regression
+                # h linear activation
                 self.xi[l] = h
             else:
                 self.xi[l] = self._g(h)
